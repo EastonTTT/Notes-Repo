@@ -25,14 +25,14 @@
             "id": "21505c922ba54937",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "02-Programming/RegExp.md",
-                "mode": "source",
-                "source": false
+                "aFile": "02-Programming/RegExp.md",
+                "bFile": "02-Programming/RegExp.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "RegExp"
+              "icon": "diff",
+              "title": "Diff: RegExp"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#表达式的使用",
+                "query": "tag:#css",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,12 +142,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Inbox/markdown常用语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "markdown常用语法 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -171,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Programming/RegExp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "RegExp 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -221,10 +219,13 @@
   },
   "active": "21505c922ba54937",
   "lastOpenFiles": [
-    "未命名.md",
-    "06-Template/日报模版.md",
+    "03-WebDev/CSS/Preprocessor/SCSS.md",
     "02-Programming/RegExp.md",
     "00-Inbox/开发工具 wiki.md",
+    "03-WebDev/CSS/Preprocessor",
+    "03-WebDev/CSS",
+    "未命名.md",
+    "06-Template/日报模版.md",
     "00-Inbox/工作常用工具指南.md",
     "00-Inbox/markdown常用语法.md",
     "07-NoteDaily/7-14 周一 日程备忘录.md",
@@ -258,8 +259,6 @@
     "06-Template",
     "05-Project",
     "04-Algorithm",
-    "03-WebDev",
-    "02-Programming",
-    "01-ComputerScience"
+    "03-WebDev"
   ]
 }
