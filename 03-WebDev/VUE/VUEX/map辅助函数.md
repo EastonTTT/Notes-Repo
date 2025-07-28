@@ -1,4 +1,3 @@
-
 ## mapState 辅助函数：
 ### why : 
 如果每个状态都需要定义一个计算属性来获取，就显得非常的重复和冗余，于是引入了 ==mapState== 辅助函数，用于简化状态的导入。
@@ -25,6 +24,7 @@ export default {
 	}
 }
 ```
+---
 ## mapGetters 辅助函数：
 ### 作用：
 将 Vuex 的 `getters` 映射为组件中的 `computed` 属性。
@@ -44,6 +44,7 @@ computed: {
   })
 }
 ```
+---
 ## mapMutations 辅助函数：
 ### 作用：
 将 Vuex 的 `mutations` 映射为组件中的 `methods` 方法。
@@ -62,6 +63,7 @@ methods: {
   })
 }
 ```
+---
 ## mapActions 辅助函数：
 ### 作用：
 将 Vuex 的 `actions` 映射为组件中的 `methods` 方法。

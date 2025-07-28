@@ -25,14 +25,14 @@
             "id": "21505c922ba54937",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "02-Programming/RegExp.md",
-                "bFile": "02-Programming/RegExp.md",
-                "aRef": ""
+                "file": "03-WebDev/VUE/VUE-ROUTER/Basic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: RegExp"
+              "icon": "lucide-file",
+              "title": "Basic"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#css",
+                "query": "tag:#vue中event事件传递",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03-WebDev/VUE/VUE-ROUTER/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Basic 的出链列表"
             }
           },
           {
@@ -170,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03-WebDev/VUE/VUE-ROUTER/Basic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Basic 的大纲"
             }
           },
           {
@@ -203,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,10 +219,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21505c922ba54937",
+  "active": "e9c02457c1a45f87",
   "lastOpenFiles": [
-    "03-WebDev/CSS/Preprocessor/SCSS.md",
+    "03-WebDev/VUE/VUEX/Overview.md",
+    "03-WebDev/VUE/VUEX/State.md",
+    "03-WebDev/VUE/Fragments.md",
+    "03-WebDev/VUE/VUE-ROUTER/Basic.md",
+    "08-DevThinking/Hybrid & bridge.md",
     "02-Programming/RegExp.md",
+    "03-WebDev/VUE/VUEX/Getter.md",
+    "03-WebDev/VUE/VUEX/action.md",
+    "03-WebDev/VUE/VUEX/module.md",
+    "03-WebDev/VUE/VUEX/map辅助函数.md",
+    "03-WebDev/VUE/VUEX/mutation.md",
+    "03-WebDev/VUE/VUE-ROUTER",
+    "03-WebDev/CSS/Preprocessor/SCSS.md",
+    "08-DevThinking",
     "00-Inbox/开发工具 wiki.md",
     "03-WebDev/CSS/Preprocessor",
     "03-WebDev/CSS",
@@ -239,26 +253,16 @@
     "07-NoteDaily/Pasted image 20250718184619.png",
     "Pasted image 20250718184603.png",
     "Pasted image 20250718184557.png",
-    "03-WebDev/VUE/VUEX/State.md",
-    "03-WebDev/VUE/VUEX/mutation.md",
-    "03-WebDev/VUE/VUEX/Getter.md",
     "Pasted image 20250716230115.png",
     "Pasted image 20250716230014.png",
     "Pasted image 20250716222824.png",
-    "03-WebDev/VUE/VUEX/module.md",
-    "03-WebDev/VUE/VUEX/map辅助函数.md",
-    "03-WebDev/VUE/VUEX/action.md",
-    "03-WebDev/VUE/VUEX/Overview.md",
     "03-WebDev/VUE/VUE2",
     "03-WebDev/VUE/VUE2.md",
     "03-WebDev/VUE/VUEX",
-    "03-WebDev/VUE/Fragments.md",
     "03-WebDev/VUE",
     "07-NoteDaily",
     "欢迎.md",
     "06-Template",
-    "05-Project",
-    "04-Algorithm",
-    "03-WebDev"
+    "05-Project"
   ]
 }
