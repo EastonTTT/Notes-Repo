@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-WebDev/VUE/VUE-ROUTER/Basic.md",
+                "file": "03-WebDev/CSS/优先级、层叠与继承.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic"
+              "title": "优先级、层叠与继承"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vue中event事件传递",
+                "query": "tag:#常看常新",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Inbox/markdown常用语法.md",
+                "file": "03-WebDev/CSS/优先级、层叠与继承.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "markdown常用语法 的反向链接列表"
+              "title": "优先级、层叠与继承 的反向链接列表"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-WebDev/VUE/VUE-ROUTER/Basic.md",
+                "file": "03-WebDev/CSS/优先级、层叠与继承.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Basic 的出链列表"
+              "title": "优先级、层叠与继承 的出链列表"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-WebDev/VUE/VUE-ROUTER/Basic.md",
+                "file": "03-WebDev/CSS/优先级、层叠与继承.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Basic 的大纲"
+              "title": "优先级、层叠与继承 的大纲"
             }
           },
           {
@@ -205,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,10 +221,15 @@
   },
   "active": "e9c02457c1a45f87",
   "lastOpenFiles": [
+    "03-WebDev/CSS/Boxes.md",
+    "03-WebDev/CSS/优先级、层叠与继承.md",
+    "03-WebDev/CSS/Selector.md",
+    "03-WebDev/VUE/Fragments.md",
+    "03-WebDev/CSS/Preprocessor/SCSS.md",
+    "00-Inbox/markdown常用语法.md",
+    "03-WebDev/VUE/VUE-ROUTER/Basic.md",
     "03-WebDev/VUE/VUEX/Overview.md",
     "03-WebDev/VUE/VUEX/State.md",
-    "03-WebDev/VUE/Fragments.md",
-    "03-WebDev/VUE/VUE-ROUTER/Basic.md",
     "08-DevThinking/Hybrid & bridge.md",
     "02-Programming/RegExp.md",
     "03-WebDev/VUE/VUEX/Getter.md",
@@ -233,7 +238,6 @@
     "03-WebDev/VUE/VUEX/map辅助函数.md",
     "03-WebDev/VUE/VUEX/mutation.md",
     "03-WebDev/VUE/VUE-ROUTER",
-    "03-WebDev/CSS/Preprocessor/SCSS.md",
     "08-DevThinking",
     "00-Inbox/开发工具 wiki.md",
     "03-WebDev/CSS/Preprocessor",
@@ -241,7 +245,6 @@
     "未命名.md",
     "06-Template/日报模版.md",
     "00-Inbox/工作常用工具指南.md",
-    "00-Inbox/markdown常用语法.md",
     "07-NoteDaily/7-14 周一 日程备忘录.md",
     "未命名.canvas",
     "07-NoteDaily/【7-16】 周三 备忘录：.md",
