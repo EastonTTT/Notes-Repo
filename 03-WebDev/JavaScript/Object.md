@@ -1,6 +1,4 @@
 #js-object对象  
-
-
 ## entries & fromentries ：
 ### entries
 方法：`Object.entries(obj)`
