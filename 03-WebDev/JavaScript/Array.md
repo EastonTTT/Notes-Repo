@@ -66,7 +66,7 @@
     - `array` → 原数组 **(optional)**
 - `initialValue`：可选，初始的 `accumulator` 值
 注意⚠：
-- `initialValue`是可选的，如果指定了`initialValue`，那么开始的`accumulator`的值就是`initialValue`，如果没有指定，`accumulator`的初始值会是数组的第一个值（`arr[0]`），这个时候**如果数组是空的就会报错，所以推荐每次都把`initialValue`写上**。
+- `initialValue`是可选的，如果指定了`initialValue`，那么开始的`accumulator`的值就是`initialValue`，如果没有指定，`accumulator`的初始值会是数组的第一个值（`arr[0]`），这个时候**如果数组是空的就会报错，所以推荐每次都把`initialValue`写上**
 - `callbackFn`别忘记返回值
 - 不能中断（没有break 和 continue）
 - 自动跳过空值
