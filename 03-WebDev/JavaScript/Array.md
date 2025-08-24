@@ -1,7 +1,6 @@
 #javascript数组操作 
 这篇笔记主要包含一些`javascript`数组相关的操作函数。
-
-##  initialize：
+## initialize：
 常见的数组初始化方法：
 注意⚠️：**未初始化的数组元素是 `undefined` 直接访问会报错**
 - 数组字面量：`const arr = []`
@@ -29,9 +28,9 @@
 ## fill：
 函数：`array.fill(element,startIndex,endIndex)`
 往数组指定的区间内填充指定的内容 **会覆盖原数组**，如果没有指定区间则对整个数组进行操作。
+**返回值是数组本身。**
 ***
 ## 数组的遍历：
-
 ### for相关：
 - `for(let i = 0;i < arr.length;i++)` 最基础的循环控制。
 - `for...of` 值遍历，不需要索引时可以使用。
@@ -67,8 +66,78 @@
 - `initialValue`：可选，初始的 `accumulator` 值
 注意⚠：
 - `initialValue`是可选的，如果指定了`initialValue`，那么开始的`accumulator`的值就是`initialValue`，如果没有指定，`accumulator`的初始值会是数组的第一个值（`arr[0]`），这个时候**如果数组是空的就会报错，所以推荐每次都把`initialValue`写上**
-- `callbackFn`别忘记返回值
+- `callbackFn`**别忘记返回值**
 - 不能中断（没有break 和 continue）
 - 自动跳过空值
 ---
+### filter：
+用法：`arr.filter(callback(element, index, array), thisArg?)`
+用于过滤数组中满足条件的元素
+- **不会修改原数组，返回一个新数组，包含所有callback函数返回true的元素**
+***
+## 数组的切割和拼接：
+### slice：
+用法：`array.slice(start,end)` **不包含结束索引的元素（到 end-1）**
+- 不修改原数组，**返回一个新数组**。
+---
+### splice：
+用法：`array.splice(start, deleteCount, item1, item2, ...)`
+- 只有起始索引是必须参数，其他都是optional
+- 当deleteCount = 0 时，表示只插入，不删除
+- item只能是单个的元素，不能传入数组
+- **`splice()`操作是原地进行修改的**
+- 返回值为**被删除元素组成的数组**
+#### 便捷用法：
+`array.splice(start,deleteCount,...insertArr)`
+用`...`操作符来展开数组元素。
+***
+### concat：
+用法：`array.concat(value1,value2,...)`
+用于把若干个元素或者数组合并为一个数组。
+- **不会修改原数组**
+- 返回合并后的新数组
+***
+## 展开运算符：
+运算符：`...`
+用法：
+- 用于展开一个 **数组、对象、可迭代结构**
+- 用于在函数中表示**剩余参数**
+---
+## some & every：
+用法：`arr.every/some(callback(element, index, array), thisArg)`
+用于判断数组中是否有满足条件的元素，可以优雅的代替for循环。
+- some：用于判断数组中是否有某些函数满足callback返回true
+- every：用于判断数组中是否每个元素都满足
+- **当some找到第一个满足条件的元素时就会结束遍历。**
+- **当every找到第一个不满足条件的元素时就会结束遍历**
+---
+## 查找：
+- `array.find(callback(element, index, array), thisArg?)`
+  找到数组中**第一个**满足条件的元素（**没有则返回`undefined`**）
+- `array.findIndex(callback(element, index, array), thisArg?)`
+  返回第一个满足条件的索引（**没有则返回-1**）
+- `array.includes(value)`返回布尔值，表示数组是否包含该元素
+- `array.indexOf(value)`返回第一个该元素的索引
+- `array.lastIndexOf(value)`返回最后一个该元素的索引
+---
+## flat：
+用法：`array.flat(<depth = 1>)
+用于展开指定层数的嵌套数组。如果没有指定depth则默认为1层。可以传入`Infinity`来表示彻底展开数组。
+### 手撕flat：
 
+```js
+function myFlat(arr,depth=1){
+	const result = []
+	for(const (item,index) of arr){
+		if(item === undefined && !(index in arr)) continue //跳过空值
+		if(Array.isArray(item) && depth > 0){
+			result.push(...myFlat(item,depth-1))
+		} else {
+			result.push(item)
+		}
+	}
+	return result
+}
+```
+ps：`in`操作符，用于判断一个属性(key)是否存在于对象/数组中
+***

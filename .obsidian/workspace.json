@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Programming/Git.md",
+                "file": "03-WebDev/JavaScript/Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Array"
+            }
+          },
+          {
+            "id": "075710f5c25b16d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-WebDev/JavaScript/Array.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Array"
             }
           },
           {
@@ -49,7 +63,8 @@
               "title": "markdown常用语法"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Programming/Git.md",
+                "file": "03-WebDev/JavaScript/Array.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 的大纲"
+              "title": "Array 的大纲"
             }
           },
           {
@@ -204,10 +219,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -218,17 +234,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c887dbe8429da66",
+  "active": "b89f09ad33e66f9b",
   "lastOpenFiles": [
     "03-WebDev/VUE/VUE2/混入机制-mixin.md",
-    "03-WebDev/JavaScript/Object.md",
+    "03-WebDev/VUE/VUE2",
     "03-WebDev/JavaScript/Type.md",
     "03-WebDev/JavaScript/Null VS Undefined.md",
-    "02-Programming/Git.md",
+    "03-WebDev/JavaScript/Object.md",
     "03-WebDev/JavaScript/Array.md",
     "09-Personal/Minecraft/mod安装指南：.md",
     "08-DevThinking/Hybrid & bridge.md",
     "03-WebDev/VUE/VUEX/State.md",
+    "02-Programming/Git.md",
     "03-WebDev/CSS/定位(Position).md",
     "03-WebDev/CSS/盒模型.md",
     "03-WebDev/CSS/溢出.md",
@@ -257,7 +274,6 @@
     "03-WebDev/VUE/VUE-ROUTER",
     "08-DevThinking",
     "03-WebDev/CSS/Preprocessor",
-    "03-WebDev/CSS",
     "未命名.canvas",
     "07-NoteDaily/Pasted image 20250718191758.png",
     "07-NoteDaily/Pasted image 20250718190936.png",
