@@ -27,22 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-Personal/Minecraft/mod安装指南：.md",
+                "file": "03-WebDev/JavaScript/Null VS Undefined.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mod安装指南："
-            }
-          },
-          {
-            "id": "b60eb2057abdb51b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "Null VS Undefined"
             }
           },
           {
@@ -74,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,12 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03-WebDev/JavaScript/Null VS Undefined.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Null VS Undefined 的大纲"
             }
           },
           {
@@ -232,7 +223,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -243,22 +233,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b60eb2057abdb51b",
+  "active": "e9c02457c1a45f87",
   "lastOpenFiles": [
-    "03-WebDev/JavaScript/Execution Model.md",
-    "00-Inbox/markdown常用语法.md",
-    "10-Interview Q&A/面试问题记录.md",
-    "09-Personal/Minecraft/mod安装指南：.md",
     "03-WebDev/JavaScript/Type.md",
-    "10-Interview Q&A",
+    "02-Programming/Git.md",
     "03-WebDev/JavaScript/Array.md",
+    "03-WebDev/JavaScript/Execution Model.md",
+    "10-Interview Q&A/面试问题记录.md",
+    "10-Interview Q&A",
     "03-WebDev/VUE/VUE2/混入机制-mixin.md",
     "03-WebDev/VUE/VUE2",
     "03-WebDev/JavaScript/Null VS Undefined.md",
     "03-WebDev/JavaScript/Object.md",
+    "09-Personal/Minecraft/mod安装指南：.md",
     "08-DevThinking/Hybrid & bridge.md",
     "03-WebDev/VUE/VUEX/State.md",
-    "02-Programming/Git.md",
     "03-WebDev/CSS/定位(Position).md",
     "03-WebDev/CSS/盒模型.md",
     "03-WebDev/CSS/溢出.md",
@@ -269,7 +258,9 @@
     "03-WebDev/CSS/CSS中的尺寸调整.md",
     "03-WebDev/VUE/VUE-ROUTER/Basic.md",
     "04-Algorithm/LeetCode/Hash.md",
+    "00-Inbox/markdown常用语法.md",
     "04-Algorithm/LeetCode/未命名.md",
+    "00-Inbox/markdown常用语法.md",
     "Attachments/Pasted image 20250720114439.png",
     "Attachments/Pasted image 20250720114416.png",
     "Attachments",

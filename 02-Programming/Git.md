@@ -28,3 +28,9 @@ Port 443
 IdentityFile ~/.ssh/id_rsa   # 如果你用 id_rsa，就改成 ~/.ssh/id_rsa
 IdentitiesOnly yes
 ```
+---
+## 创建线上同名分支：
+
+```git
+git checkout -b mybranch origin/mybranch
+```
