@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Programming/Git.md",
+                "file": "03-WebDev/JavaScript/Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Function"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Programming/Git.md",
+                "file": "03-WebDev/JavaScript/Function.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 的大纲"
+              "title": "Function 的大纲"
             }
           },
           {
@@ -223,6 +223,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -235,20 +236,23 @@
   },
   "active": "075710f5c25b16d7",
   "lastOpenFiles": [
+    "03-WebDev/JavaScript/Object.md",
+    "03-WebDev/JavaScript/Asynchronous.md",
+    "03-WebDev/JavaScript/Function.md",
+    "02-Programming/RegExp.md",
+    "02-Programming/Git.md",
     "03-WebDev/CSS/选择器.md",
     "03-WebDev/JavaScript/Null VS Undefined.md",
     "03-WebDev/VUE/VUE2/Life-Cycle：.md",
     "03-WebDev/VUE/Fragments.md",
     "03-WebDev/VUE/VUE-ROUTER/Basic.md",
     "03-WebDev/JavaScript/Type.md",
-    "02-Programming/Git.md",
     "03-WebDev/JavaScript/Array.md",
     "03-WebDev/JavaScript/Execution Model.md",
     "10-Interview Q&A/面试问题记录.md",
     "10-Interview Q&A",
     "03-WebDev/VUE/VUE2/混入机制-mixin.md",
     "03-WebDev/VUE/VUE2",
-    "03-WebDev/JavaScript/Object.md",
     "09-Personal/Minecraft/mod安装指南：.md",
     "08-DevThinking/Hybrid & bridge.md",
     "03-WebDev/VUE/VUEX/State.md",
@@ -262,12 +266,9 @@
     "03-WebDev/CSS/CSS中的尺寸调整.md",
     "04-Algorithm/LeetCode/Hash.md",
     "00-Inbox/markdown常用语法.md",
-    "04-Algorithm/LeetCode/未命名.md",
-    "00-Inbox/markdown常用语法.md",
     "Attachments/Pasted image 20250720114439.png",
     "Attachments/Pasted image 20250720114416.png",
     "Attachments",
-    "06-Template/日报模版.md",
     "09-Personal/Minecraft",
     "09-Personal",
     "04-Algorithm/LeetCode",
