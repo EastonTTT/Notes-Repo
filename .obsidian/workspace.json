@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-WebDev/JavaScript/Function.md",
+                "file": "03-WebDev/JavaScript/meta programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Function"
+              "title": "meta programming"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-WebDev/JavaScript/Function.md",
+                "file": "03-WebDev/JavaScript/meta programming.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Function 的大纲"
+              "title": "meta programming 的大纲"
             }
           },
           {
@@ -236,8 +236,12 @@
   },
   "active": "075710f5c25b16d7",
   "lastOpenFiles": [
+    "03-WebDev/JavaScript/Type.md",
+    "03-WebDev/JavaScript/meta programming.md",
     "03-WebDev/JavaScript/Object.md",
+    "03-WebDev/JavaScript/EventLoop.md",
     "03-WebDev/JavaScript/Asynchronous.md",
+    "Attachments/a4fc1897526f2e025b4729cde938c691.png",
     "03-WebDev/JavaScript/Function.md",
     "02-Programming/RegExp.md",
     "02-Programming/Git.md",
@@ -246,7 +250,6 @@
     "03-WebDev/VUE/VUE2/Life-Cycle：.md",
     "03-WebDev/VUE/Fragments.md",
     "03-WebDev/VUE/VUE-ROUTER/Basic.md",
-    "03-WebDev/JavaScript/Type.md",
     "03-WebDev/JavaScript/Array.md",
     "03-WebDev/JavaScript/Execution Model.md",
     "10-Interview Q&A/面试问题记录.md",
@@ -264,8 +267,6 @@
     "03-WebDev/CSS/优先级、层叠与继承.md",
     "03-WebDev/JavaScript",
     "03-WebDev/CSS/CSS中的尺寸调整.md",
-    "04-Algorithm/LeetCode/Hash.md",
-    "00-Inbox/markdown常用语法.md",
     "Attachments/Pasted image 20250720114439.png",
     "Attachments/Pasted image 20250720114416.png",
     "Attachments",
@@ -281,7 +282,6 @@
     "07-NoteDaily/Pasted image 20250718184648.png",
     "07-NoteDaily/Pasted image 20250718184619.png",
     "Pasted image 20250718184603.png",
-    "Pasted image 20250718184557.png",
-    "Pasted image 20250716230014.png"
+    "Pasted image 20250718184557.png"
   ]
 }
