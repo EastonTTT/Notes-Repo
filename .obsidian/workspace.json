@@ -223,7 +223,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -236,11 +235,12 @@
   },
   "active": "075710f5c25b16d7",
   "lastOpenFiles": [
-    "03-WebDev/JavaScript/Type.md",
-    "03-WebDev/JavaScript/meta programming.md",
-    "03-WebDev/JavaScript/Object.md",
     "03-WebDev/JavaScript/EventLoop.md",
+    "03-WebDev/JavaScript/Execution Model.md",
     "03-WebDev/JavaScript/Asynchronous.md",
+    "03-WebDev/JavaScript/meta programming.md",
+    "03-WebDev/JavaScript/Type.md",
+    "03-WebDev/JavaScript/Object.md",
     "Attachments/a4fc1897526f2e025b4729cde938c691.png",
     "03-WebDev/JavaScript/Function.md",
     "02-Programming/RegExp.md",
@@ -251,7 +251,6 @@
     "03-WebDev/VUE/Fragments.md",
     "03-WebDev/VUE/VUE-ROUTER/Basic.md",
     "03-WebDev/JavaScript/Array.md",
-    "03-WebDev/JavaScript/Execution Model.md",
     "10-Interview Q&A/面试问题记录.md",
     "10-Interview Q&A",
     "03-WebDev/VUE/VUE2/混入机制-mixin.md",
