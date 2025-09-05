@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-WebDev/JavaScript/meta programming.md",
+                "file": "03-WebDev/Browser/Cache.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "meta programming"
+              "title": "Cache"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-WebDev/JavaScript/meta programming.md",
+                "file": "03-WebDev/Browser/Cache.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "meta programming 的大纲"
+              "title": "Cache 的大纲"
             }
           },
           {
@@ -235,11 +235,20 @@
   },
   "active": "075710f5c25b16d7",
   "lastOpenFiles": [
+    "03-WebDev/Network/DNS.md",
+    "03-WebDev/Browser/Cache.md",
     "03-WebDev/JavaScript/EventLoop.md",
+    "03-WebDev/JavaScript/Type.md",
+    "03-WebDev/JavaScript/meta programming.md",
+    "00-Inbox/markdown常用语法.md",
+    "03-WebDev/Browser/Storage.md",
+    "03-WebDev/Network/HTTP.md",
+    "03-WebDev/Browser & Network.md",
+    "03-WebDev/Network",
+    "03-WebDev/Browser",
+    "Attachments/Pasted image 20250905142247.png",
     "03-WebDev/JavaScript/Execution Model.md",
     "03-WebDev/JavaScript/Asynchronous.md",
-    "03-WebDev/JavaScript/meta programming.md",
-    "03-WebDev/JavaScript/Type.md",
     "03-WebDev/JavaScript/Object.md",
     "Attachments/a4fc1897526f2e025b4729cde938c691.png",
     "03-WebDev/JavaScript/Function.md",
@@ -258,29 +267,20 @@
     "09-Personal/Minecraft/mod安装指南：.md",
     "08-DevThinking/Hybrid & bridge.md",
     "03-WebDev/VUE/VUEX/State.md",
-    "03-WebDev/CSS/定位(Position).md",
-    "03-WebDev/CSS/盒模型.md",
-    "03-WebDev/CSS/溢出.md",
-    "02-Programming/Git/未命名.md",
     "02-Programming/Git",
-    "03-WebDev/CSS/优先级、层叠与继承.md",
     "03-WebDev/JavaScript",
-    "03-WebDev/CSS/CSS中的尺寸调整.md",
     "Attachments/Pasted image 20250720114439.png",
     "Attachments/Pasted image 20250720114416.png",
     "Attachments",
     "09-Personal/Minecraft",
     "09-Personal",
     "04-Algorithm/LeetCode",
-    "03-WebDev/VUE/VUE-ROUTER",
-    "08-DevThinking",
     "未命名.canvas",
     "07-NoteDaily/Pasted image 20250718191758.png",
     "07-NoteDaily/Pasted image 20250718190936.png",
     "07-NoteDaily/Pasted image 20250718190728.png",
     "07-NoteDaily/Pasted image 20250718184648.png",
     "07-NoteDaily/Pasted image 20250718184619.png",
-    "Pasted image 20250718184603.png",
-    "Pasted image 20250718184557.png"
+    "Pasted image 20250718184603.png"
   ]
 }
