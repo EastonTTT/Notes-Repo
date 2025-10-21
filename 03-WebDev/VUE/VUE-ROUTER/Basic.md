@@ -63,11 +63,11 @@ const routes = [
 ### 历史：
 使用`this.$router.go()`表示在历史堆栈中移动指定步数，正数表示向前，负数表示向后
 ***
-## 历史模式
+## 路由模式
 Vue Router 提供了三种路由模式，它们决定了 URL 是如何变化的，以及浏览器是如何响应这些变化的
-- **Hash 模式**（默认）
-- **History 模式**（HTML5 History API）
-- **Memory 模式**（主要用于非浏览器环境，如 SSR、测试）
+- **Hash 模式**（默认）`createWebHashHistory()`
+- **History 模式**（HTML5 History API）`createWebHistory()`
+- **Memory 模式**（主要用于非浏览器环境，如 SSR、测试）`createMemoryHistory()`
 ---
 ## 路由守卫：
 路由守卫就是：**在页面跳转的过程中执行的钩子函数。**（类似于请求/响应拦截器）
@@ -102,14 +102,41 @@ Vue Router 提供了三种路由模式，它们决定了 URL 是如何变化的�
 #### 路由独享守卫：
 直接在路由配置中（某个具体 route 上），只作用于该路由，不影响其他页面，==**适用于页面独立权限**==
 - `beforeEnter(to, from, next)`
+```js
+{
+	path: '',
+	name: '',
+	component: () => import(),
+	beforeEnter: (to,from,next) => {
+		//这里写守卫逻辑
+	}
+}
+```
 #### 组件内守卫：
 写在页面组件（`.vue` 文件）内部，更贴近组件本身的生命周期，适合控制**组件的进入、更新、离开行为**
+**为什么不使用组件原本的生命周期钩子，而要使用守卫？**
+- 动态参数变化的时候，组件是不会重新销毁/创建的，要使用守卫才能捕获到变化
+- 只有守卫才能拦截到跳转（`beforeRouteLeave(to, from ,next){}`，在`next()`函数中返回`false`
 - `beforeRouteEnter(to, from, next)`
 - `beforeRouteUpdate(to, from, next)`
 - `beforeRouteLeave(to, from, next)`
 ***
 ## 元信息(meta)
-`meta` 是 Vue Router 中定义在**每个路由记录**上的一个字段（每个路由**独有的**信息存储仓库），它**不会影响路由本身的匹配或跳转逻辑**。它就是路由对象里的一个自由的数据结构字段，开发者可以**存放任意信息**，并在守卫、组件等地方访问使用。
+`meta` 是 Vue Router 中定义在**每个路由记录**上的一个字段（每个路由**独有的**信息存储仓库），它**不会影响路由本身的匹配或跳转逻辑**。它就是路由对象里的一个自由的数据结构字段，开发者可以**存放任意信息**，并在守卫、组件等地方访问使用。**在一般应用场景中，==不建议修改meta值==，如果需要修改，说明此处的逻辑不应该使用meta来进行处理。**
+### 定义：
+以一个对象的形式定义。
+```js
+const routes = [
+	path: ,
+	name: '',
+	component: () => import(''),
+	meta: {
+		role: 'admin',
+		title: 'web title',
+		...
+	}
+]
+```
 ### 使用：
 #### 在守卫中使用：
 ```js
