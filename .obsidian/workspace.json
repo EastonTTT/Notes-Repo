@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd2144e23325595",
+        "id": "96b1bd7dded604e7",
         "type": "tabs",
         "children": [
           {
-            "id": "7c887dbe8429da66",
+            "id": "a9949cc08deb2e65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-WebDev/JavaScript/Array.md",
+                "file": "02-Programming/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array"
-            }
-          },
-          {
-            "id": "075710f5c25b16d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-WebDev/Browser/CORS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CORS"
-            }
-          },
-          {
-            "id": "87b65fc23a6239f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-WebDev/Request.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Request"
-            }
-          },
-          {
-            "id": "21505c922ba54937",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-WebDev/VUE/VUEX/State.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "State"
-            }
-          },
-          {
-            "id": "178e396e568ec59f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/markdown常用语法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "markdown常用语法"
+              "title": "Git"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 251.5069465637207
   },
   "right": {
     "id": "9cfbaedd1e00a497",
@@ -170,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-WebDev/CSS/定位(Position).md",
+                "file": "02-Programming/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "定位(Position) 的出链列表"
+              "title": "Git 的出链列表"
             }
           },
           {
@@ -199,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-WebDev/Request.md",
+                "file": "02-Programming/Git.md",
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Request 的大纲"
+              "title": "Git 的大纲"
             }
           },
           {
@@ -214,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -224,8 +167,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -237,30 +180,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87b65fc23a6239f9",
+  "active": "a9949cc08deb2e65",
   "lastOpenFiles": [
-    "03-WebDev/VUE/Slot.md",
-    "03-WebDev/Request.md",
-    "03-WebDev/VUE/Fragments.md",
-    "08-DevThinking/Hybrid & bridge.md",
-    "03-WebDev/VUE/VUE-ROUTER/Basic.md",
+    "03-WebDev/CSS/盒模型.md",
+    "03-WebDev/CSS/CSS中的尺寸调整.md",
+    "03-WebDev/CSS/优先级、层叠与继承.md",
+    "03-WebDev/Browser/CORS.md",
+    "03-WebDev/JavaScript/Array.md",
+    "03-WebDev/VUE/VUEX/State.md",
+    "00-Inbox/markdown常用语法.md",
+    "10-Interview Q&A/面试逐字稿.md",
     "03-WebDev/VUE/VUE-ROUTER/demo.md",
     "02-Programming/Git.md",
-    "10-Interview Q&A/面试逐字稿.md",
-    "10-Interview Q&A/面试问题记录.md",
+    "09-Personal/Minecraft/mod安装指南：.md",
     "03-WebDev/Network/HTTP.md",
-    "03-WebDev/Browser/CORS.md",
     "03-WebDev/Browser/进程模型：.md",
     "Attachments/Pasted image 20250907134538.png",
     "Attachments/Pasted image 20250907134430.png",
@@ -285,7 +229,6 @@
     "03-WebDev/CSS/选择器.md",
     "03-WebDev/JavaScript/Null VS Undefined.md",
     "03-WebDev/VUE/VUE2/Life-Cycle：.md",
-    "03-WebDev/JavaScript/Array.md",
     "10-Interview Q&A",
     "03-WebDev/VUE/VUE2",
     "02-Programming/Git",
