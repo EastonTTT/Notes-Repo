@@ -13,15 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Programming/Git.md",
+                "file": "11-Cross platform/Thoughts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Thoughts"
+            }
+          },
+          {
+            "id": "12f29b7bf40b4270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12-Engineering/Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "0785e13214ec70bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -40,7 +67,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -78,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5069465637207
+    "width": 262.5
   },
   "right": {
     "id": "9cfbaedd1e00a497",
@@ -142,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Programming/Git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -191,54 +217,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a9949cc08deb2e65",
+  "active": "0785e13214ec70bd",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20251130094619.png",
+    "Attachments/Pasted image 20251130094107.png",
+    "Attachments/Pasted image 20251130093527.png",
+    "Attachments/局部截取_20251130_093446.png",
+    "未命名.md",
+    "12-Engineering/Docker.md",
+    "03-WebDev/JavaScript/03-Type.md",
+    "12-Engineering",
+    "03-WebDev/JavaScript/02-Variable.md",
+    "03-WebDev/JavaScript/Array.md",
+    "03-WebDev/JavaScript/01-JS Basic.md",
+    "03-WebDev/JavaScript/Null VS Undefined.md",
+    "03-WebDev/JavaScript/Object.md",
+    "03-WebDev/JavaScript/meta programming.md",
+    "03-WebDev/JavaScript/Function.md",
+    "03-WebDev/JavaScript/Execution Model.md",
+    "03-WebDev/JavaScript/EventLoop.md",
+    "03-WebDev/JavaScript/Asynchronous.md",
+    "11-Cross platform/Flutter/Widget.md",
+    "11-Cross platform/Flutter/Dart.md",
+    "11-Cross platform/Flutter",
+    "Attachments/Pasted image 20251113225256.png",
+    "Attachments/Pasted image 20251113220225.png",
+    "Attachments/Pasted image 20251112222321.png",
+    "Attachments/Pasted image 20251112221819.png",
+    "11-Cross platform/Thoughts.md",
+    "11-Cross platform",
+    "08-DevThinking/Hybrid & bridge.md",
+    "03-WebDev/VUE/VUE2/混入机制-mixin.md",
+    "03-WebDev/VUE/VUE2/Life-Cycle：.md",
+    "02-Programming/Git.md",
     "03-WebDev/CSS/盒模型.md",
     "03-WebDev/CSS/CSS中的尺寸调整.md",
     "03-WebDev/CSS/优先级、层叠与继承.md",
     "03-WebDev/Browser/CORS.md",
-    "03-WebDev/JavaScript/Array.md",
     "03-WebDev/VUE/VUEX/State.md",
-    "00-Inbox/markdown常用语法.md",
-    "10-Interview Q&A/面试逐字稿.md",
-    "03-WebDev/VUE/VUE-ROUTER/demo.md",
-    "02-Programming/Git.md",
-    "09-Personal/Minecraft/mod安装指南：.md",
-    "03-WebDev/Network/HTTP.md",
-    "03-WebDev/Browser/进程模型：.md",
     "Attachments/Pasted image 20250907134538.png",
     "Attachments/Pasted image 20250907134430.png",
     "Attachments/Pasted image 20250907134320.png",
-    "Attachments/Pasted image 20250906233601.png",
-    "Attachments/Pasted image 20250906233300.png",
-    "Attachments/Pasted image 20250906233052.png",
-    "03-WebDev/Browser/Cache.md",
-    "03-WebDev/Network/DNS.md",
-    "03-WebDev/JavaScript/EventLoop.md",
-    "03-WebDev/Browser/Storage.md",
-    "03-WebDev/JavaScript/meta programming.md",
-    "Attachments/Pasted image 20250905142247.png",
     "03-WebDev/Network",
     "03-WebDev/Browser",
-    "03-WebDev/JavaScript/Type.md",
-    "03-WebDev/JavaScript/Object.md",
-    "03-WebDev/JavaScript/Asynchronous.md",
-    "Attachments/a4fc1897526f2e025b4729cde938c691.png",
-    "03-WebDev/JavaScript/Function.md",
-    "02-Programming/RegExp.md",
-    "03-WebDev/CSS/选择器.md",
-    "03-WebDev/JavaScript/Null VS Undefined.md",
-    "03-WebDev/VUE/VUE2/Life-Cycle：.md",
     "10-Interview Q&A",
     "03-WebDev/VUE/VUE2",
     "02-Programming/Git",
     "03-WebDev/JavaScript",
-    "Attachments/Pasted image 20250720114439.png",
-    "Attachments/Pasted image 20250720114416.png",
     "Attachments",
-    "09-Personal/Minecraft",
-    "09-Personal",
-    "04-Algorithm/LeetCode",
     "未命名.canvas"
   ]
 }

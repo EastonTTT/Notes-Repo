@@ -35,14 +35,14 @@ JavaScript 是一种**动态类型语言**，变量在运行时可以保存任�
 - `RegExp`
 - `Error`
 ---
-## 类型的判断：
+## ==⭐类型的判断：==
 ### typeof：
 用法：`const type = typeof val`
-`typeof`操作符，返回一个字符串来表示变量的类型。
+`typeof`操作符，**返回一个字符串**来表示变量的类型。
 #### 局限性：
 `typeof`操作符没有办法区分某些对象的子类型：`Array,Map,Set,Date,RegExp`，他们返回的结果全部都是`Object`，`typeof null`的结果也是`Object`。这是历史包袱。
 能够被`typeof`正确返回的类型：
-`"undefined"、"object"、"boolean"、"number"、"string"、"symbol"、"bigint"、  "function"`
+`"undefined"、"object"、"boolean"、"number"、"string"、"symbol"、"bigint"、  ⭐"function"`
 ***
 ### instance of
 用法：`val instanceof Type` 
