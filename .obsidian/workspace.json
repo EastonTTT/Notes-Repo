@@ -48,9 +48,34 @@
               "icon": "lucide-file",
               "title": "Widget"
             }
+          },
+          {
+            "id": "6a0e91639a823043",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "未命名.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "2e7ea38420816b69",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,13 +196,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11-Cross platform/Flutter/Widget.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Widget 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -209,7 +233,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -220,11 +244,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0785e13214ec70bd",
+  "active": "2e7ea38420816b69",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20251215201350.png",
     "11-Cross platform/Flutter/package manager.md",
+    "03-WebDev/Browser/Cache.md",
+    "未命名.base",
+    "03-WebDev/Browser/进程模型：.md",
+    "11-Cross platform/Flutter/Dart.md",
     "11-Cross platform/Flutter/Widget.md",
+    "Attachments/Pasted image 20251215201350.png",
     "03-WebDev/JavaScript/Null VS Undefined.md",
     "11-Cross platform/Flutter/components",
     "03-WebDev/JavaScript/03-Type.md",
@@ -244,7 +272,6 @@
     "03-WebDev/JavaScript/Execution Model.md",
     "03-WebDev/JavaScript/EventLoop.md",
     "03-WebDev/JavaScript/Asynchronous.md",
-    "11-Cross platform/Flutter/Dart.md",
     "11-Cross platform/Flutter",
     "Attachments/Pasted image 20251113225256.png",
     "Attachments/Pasted image 20251113220225.png",
@@ -261,13 +288,11 @@
     "03-WebDev/CSS/优先级、层叠与继承.md",
     "03-WebDev/Browser/CORS.md",
     "Attachments/Pasted image 20250907134538.png",
-    "Attachments/Pasted image 20250907134430.png",
     "03-WebDev/Network",
     "03-WebDev/Browser",
     "10-Interview Q&A",
     "03-WebDev/VUE/VUE2",
     "02-Programming/Git",
-    "03-WebDev/JavaScript",
     "未命名.canvas"
   ]
 }
