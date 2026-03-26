@@ -89,35 +89,21 @@
             }
           },
           {
-            "id": "7b383d8bebd149f1",
+            "id": "8d1769495694783b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-Personal/self-improvement/copy down.md",
+                "file": "09-Personal/Documentary/power of companies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "copy down"
-            }
-          },
-          {
-            "id": "c81af134aff296eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09-Personal/self-improvement/copy down.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "copy down"
+              "title": "power of companies"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -271,7 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 891.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,15 +272,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c81af134aff296eb",
+  "active": "8d1769495694783b",
   "lastOpenFiles": [
-    "未命名.base",
+    "00-Inbox/markdown常用语法.md",
+    "00-Inbox/开发工具 wiki.md",
+    "09-Personal/Documentary/power of companies.md",
     "09-Personal/self-improvement/copy down.md",
+    "09-Personal/Documentary",
     "09-Personal/self-improvement",
     "未命名 1.base",
-    "Attachments/Pasted image 20251226182911.png",
-    "Attachments/Pasted image 20251226182916.png",
-    "Attachments/Pasted image 20251226182636.png",
     "03-WebDev/VUE/Design & Implementation/Reactive System.md",
     "12-Engineering/Docker.md",
     "golang_sample",
@@ -305,6 +291,7 @@
     "03-WebDev/VUE/Design & Implementation",
     "03-WebDev/Browser/进程模型：.md",
     "11-Cross platform/Flutter/package manager.md",
+    "未命名.base",
     "11-Cross platform/Flutter/Dart.md",
     "11-Cross platform/Flutter/Widget.md",
     "Attachments/Pasted image 20251215201350.png",
@@ -329,10 +316,10 @@
     "11-Cross platform/Flutter",
     "Attachments/Pasted image 20251113225256.png",
     "Attachments/Pasted image 20251113220225.png",
-    "11-Cross platform/Thoughts.md",
+    "Attachments/Pasted image 20251112222321.png",
+    "Attachments/Pasted image 20251112221819.png",
     "11-Cross platform",
-    "08-DevThinking/Hybrid & bridge.md",
-    "03-WebDev/Network",
+    "Attachments/Pasted image 20250907134538.png",
     "未命名.canvas"
   ]
 }
