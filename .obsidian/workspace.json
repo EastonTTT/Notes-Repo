@@ -39,14 +39,14 @@
             "id": "c81af134aff296eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "09-Personal/Lose weight/method.md",
-                "mode": "source",
-                "source": false
+                "aFile": "09-Personal/Lose weight/method.md",
+                "bFile": "09-Personal/Lose weight/method.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "method"
+              "icon": "diff",
+              "title": "Diff: method"
             }
           }
         ],
@@ -221,10 +221,10 @@
   },
   "active": "c81af134aff296eb",
   "lastOpenFiles": [
+    "09-Personal/Lose weight/method.md",
     "Attachments/Pasted image 20260331101159.png",
     "Attachments/Pasted image 20260331100820.png",
     "00-Inbox/markdown常用语法.md",
-    "09-Personal/Lose weight/method.md",
     "Attachments/Pasted image 20260331094052.png",
     "09-Personal/self-improvement/copy down.md",
     "09-Personal/lose weight.md",
@@ -258,7 +258,6 @@
     "Attachments/Pasted image 20251130094619.png",
     "Attachments/Pasted image 20251130094107.png",
     "Attachments/Pasted image 20251130093527.png",
-    "Attachments/局部截取_20251130_093446.png",
     "未命名.md",
     "12-Engineering",
     "03-WebDev/JavaScript/Array.md",
