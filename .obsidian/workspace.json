@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-Personal/Photography/learning.md",
+                "file": "09-Personal/Photography/basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "learning"
+              "title": "basic"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-Personal/Photography/learning.md",
+                "file": "09-Personal/Photography/basic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "learning 的大纲"
+              "title": "basic 的大纲"
             }
           },
           {
@@ -206,10 +206,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc9334b84cbea398",
+  "active": "b89f09ad33e66f9b",
   "lastOpenFiles": [
     "03-WebDev/Vue/VUE-ROUTER/Basic.md",
-    "09-Personal/Photography/learning.md",
+    "09-Personal/Photography/basic.md",
     "09-Personal/Photography",
     "03-WebDev/React",
     "10-Interview Q&A/面试准备 & 逐字稿.md",
