@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-WebDev/VUE/VUE-ROUTER/Basic.md",
+                "file": "09-Personal/Photography/learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic"
+              "title": "learning"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-WebDev/VUE/VUE-ROUTER/Basic.md",
+                "file": "09-Personal/Photography/learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Basic 的大纲"
+              "title": "learning 的大纲"
             }
           },
           {
@@ -206,12 +206,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76f4d6e0d0ff3f89",
+  "active": "cc9334b84cbea398",
   "lastOpenFiles": [
+    "03-WebDev/Vue/VUE-ROUTER/Basic.md",
+    "09-Personal/Photography/learning.md",
+    "09-Personal/Photography",
+    "03-WebDev/React",
     "10-Interview Q&A/面试准备 & 逐字稿.md",
-    "03-WebDev/VUE/VUE-ROUTER/Basic.md",
     "10-Interview Q&A/面试问题记录.md",
-    "03-WebDev/VUE/VUE-ROUTER/demo.md",
+    "03-WebDev/Vue/VUE-ROUTER/demo.md",
     "03-WebDev/JavaScript/Object.md",
     "03-WebDev/JavaScript/03-Type.md",
     "09-Personal/Minecraft/mod安装指南：.md",
@@ -227,14 +230,14 @@
     "09-Personal/Documentary",
     "09-Personal/self-improvement",
     "未命名 1.base",
-    "03-WebDev/VUE/Design & Implementation/Reactive System.md",
+    "03-WebDev/Vue/Design & Implementation/Reactive System.md",
     "12-Engineering/Docker.md",
     "golang_sample",
     "03-WebDev/Network/DNS.md",
     "03-WebDev/Browser/Cache.md",
     "03-WebDev/CSS/定位(Position).md",
     "03-WebDev/Browser/CORS.md",
-    "03-WebDev/VUE/Design & Implementation",
+    "03-WebDev/Vue/Design & Implementation",
     "03-WebDev/Browser/进程模型：.md",
     "11-Cross platform/Flutter/package manager.md",
     "未命名.base",
@@ -249,9 +252,6 @@
     "Attachments/Pasted image 20251130094107.png",
     "Attachments/Pasted image 20251130093527.png",
     "Attachments/局部截取_20251130_093446.png",
-    "未命名.md",
-    "12-Engineering",
-    "11-Cross platform/Flutter",
     "Attachments/Pasted image 20251113225256.png",
     "Attachments/Pasted image 20251113220225.png",
     "未命名.canvas"
