@@ -187,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,7 +206,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc9334b84cbea398",
+  "active": "e9c02457c1a45f87",
   "lastOpenFiles": [
     "Attachments/Pasted image 20260429202018.png",
     "03-WebDev/Vue/VUE-ROUTER/Basic.md",
