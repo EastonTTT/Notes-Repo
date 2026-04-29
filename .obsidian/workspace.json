@@ -8,21 +8,88 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d1769495694783b",
+            "id": "a9949cc08deb2e65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-Interview Q&A/面试准备 & 逐字稿.md",
+                "file": "11-Cross platform/Thoughts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面试准备 & 逐字稿"
+              "title": "Thoughts"
             }
           },
           {
-            "id": "cc9334b84cbea398",
+            "id": "12f29b7bf40b4270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12-Engineering/Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "0785e13214ec70bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11-Cross platform/Flutter/Widget.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Widget"
+            }
+          },
+          {
+            "id": "6a0e91639a823043",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "未命名.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "2e7ea38420816b69",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
+            }
+          },
+          {
+            "id": "36eea195f6c0da48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-WebDev/VUE/Design & Implementation/Reactive System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reactive System"
+            }
+          },
+          {
+            "id": "8d1769495694783b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -68,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entries",
+                "query": "tag:#vue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,13 +224,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-Personal/Photography/basic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "basic 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -187,11 +253,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,19 +272,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b89f09ad33e66f9b",
+  "active": "8d1769495694783b",
   "lastOpenFiles": [
-    "03-WebDev/Vue/VUE-ROUTER/Basic.md",
+    "03-WebDev/VUE/VUE-ROUTER/Basic.md",
+    "09-Personal/Lose weight/method.md",
+    "10-Interview Q&A/面试准备 & 逐字稿.md",
     "09-Personal/Photography/basic.md",
     "09-Personal/Photography",
-    "03-WebDev/React",
-    "10-Interview Q&A/面试准备 & 逐字稿.md",
-    "10-Interview Q&A/面试问题记录.md",
-    "03-WebDev/Vue/VUE-ROUTER/demo.md",
-    "03-WebDev/JavaScript/Object.md",
-    "03-WebDev/JavaScript/03-Type.md",
-    "09-Personal/Minecraft/mod安装指南：.md",
-    "09-Personal/Lose weight/method.md",
     "09-Personal/Documentary/power of companies.md",
     "Attachments/Pasted image 20260331101159.png",
     "Attachments/Pasted image 20260331100820.png",
@@ -230,14 +290,14 @@
     "09-Personal/Documentary",
     "09-Personal/self-improvement",
     "未命名 1.base",
-    "03-WebDev/Vue/Design & Implementation/Reactive System.md",
+    "03-WebDev/VUE/Design & Implementation/Reactive System.md",
     "12-Engineering/Docker.md",
     "golang_sample",
     "03-WebDev/Network/DNS.md",
     "03-WebDev/Browser/Cache.md",
     "03-WebDev/CSS/定位(Position).md",
     "03-WebDev/Browser/CORS.md",
-    "03-WebDev/Vue/Design & Implementation",
+    "03-WebDev/VUE/Design & Implementation",
     "03-WebDev/Browser/进程模型：.md",
     "11-Cross platform/Flutter/package manager.md",
     "未命名.base",
@@ -246,12 +306,18 @@
     "Attachments/Pasted image 20251215201350.png",
     "03-WebDev/JavaScript/Null VS Undefined.md",
     "11-Cross platform/Flutter/components",
+    "03-WebDev/JavaScript/03-Type.md",
     "03-WebDev/JavaScript/02-Variable.md",
     "03-WebDev/JavaScript/01-JS Basic.md",
     "Attachments/Pasted image 20251130094619.png",
     "Attachments/Pasted image 20251130094107.png",
     "Attachments/Pasted image 20251130093527.png",
     "Attachments/局部截取_20251130_093446.png",
+    "未命名.md",
+    "12-Engineering",
+    "03-WebDev/JavaScript/Array.md",
+    "03-WebDev/JavaScript/Object.md",
+    "03-WebDev/JavaScript/meta programming.md",
     "Attachments/Pasted image 20251113225256.png",
     "Attachments/Pasted image 20251113220225.png",
     "未命名.canvas"
