@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-WebDev/CSS/定位(Position).md",
+                "file": "09-Personal/Photography/basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "定位(Position) 的反向链接列表"
+              "title": "basic 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-WebDev/VUE/Design & Implementation/Reactive System.md",
+                "file": "09-Personal/Photography/basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Reactive System 的出链列表"
+              "title": "basic 的出链列表"
             }
           },
           {
@@ -143,7 +143,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -187,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,13 +206,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ebc45ed2b6d27eb",
+  "active": "e9c02457c1a45f87",
   "lastOpenFiles": [
+    "00-Inbox/markdown常用语法.md",
+    "09-Personal/Photography/basic.md",
+    "Attachments/Pasted image 20260501223912.png",
+    "Attachments/Pasted image 20260501223900.png",
+    "Attachments/Pasted image 20260501223524.png",
+    "Attachments/Pasted image 20260501222254.png",
+    "Attachments/Pasted image 20260501222224.png",
     "Attachments/Pasted image 20260501114250.png",
     "05-Artificial-Intelligence",
     "Attachments/Pasted image 20260429202018.png",
     "03-WebDev/Vue/VUE-ROUTER/Basic.md",
-    "09-Personal/Photography/basic.md",
     "09-Personal/Photography",
     "03-WebDev/React",
     "10-Interview Q&A/面试准备 & 逐字稿.md",
@@ -227,7 +233,6 @@
     "Attachments/Pasted image 20260331100820.png",
     "Attachments/Pasted image 20260331094052.png",
     "09-Personal/Lose weight",
-    "00-Inbox/markdown常用语法.md",
     "00-Inbox/开发工具 wiki.md",
     "09-Personal/self-improvement/copy down.md",
     "09-Personal/Documentary",
@@ -246,14 +251,8 @@
     "未命名.base",
     "11-Cross platform/Flutter/Dart.md",
     "11-Cross platform/Flutter/Widget.md",
-    "Attachments/Pasted image 20251215201350.png",
     "03-WebDev/JavaScript/Null VS Undefined.md",
     "03-WebDev/JavaScript/02-Variable.md",
-    "Attachments/Pasted image 20251130094619.png",
-    "Attachments/Pasted image 20251130094107.png",
-    "Attachments/Pasted image 20251130093527.png",
-    "Attachments/局部截取_20251130_093446.png",
-    "Attachments/Pasted image 20251113225256.png",
     "未命名.canvas"
   ]
 }
