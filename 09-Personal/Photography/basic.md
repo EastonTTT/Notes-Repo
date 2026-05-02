@@ -3,6 +3,16 @@
 # 名词解释：
 - `Shutter`：快门
 	- `shutter speed`：快门速度
+- `Focus`：对焦
+	- `AF-Autofocus`：自动对焦
+	- `MF-Manual Focus`：手动对焦
+	- `Eye AF`：眼部自动对焦
+	- `AF-C Continuous Autofocus`：连续自动对焦
+	- `AF-S Single Autofocus`：单次自动对焦
+- `DOF Depth of Field`：景深
+	- `Deep/Shallow DOF`：深/浅景深
+- `Blur`：虚化
+	- `Background/Foreground Blur`：背景/前景虚化
 - `Exposure`：曝光
 	- `Overexposure`：过曝
 	- `Underexposure`：欠曝
@@ -22,6 +32,7 @@
 	- `Kits Lens`：套机镜头
 	- `Lens Distortion`：镜头畸变
 - `Perspective`：透视
+- 
 # 对焦：
 一般来说，将眼睛作为焦点是比较合适的。
 
