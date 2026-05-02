@@ -32,7 +32,46 @@
 	- `Kits Lens`：套机镜头
 	- `Lens Distortion`：镜头畸变
 - `Perspective`：透视
-- 
+- `Image Quality`：画质
+- `Sharpness`：锐度
+- `Resolution`：分辨率
+- `Pixel`：像素
+- `Noise`：噪点
+- `Camera Mode`：相机模式
+	- `Auto Mode`：自动模式
+	- `P Mode - Programming Mode`：程序自动模式
+	- `Aperture Mode/AV Mode/A Mode`：光圈优先模式
+	- `M Mode - Manual Mode`：手动模式
+	- `Shutter Priority/S Mode/Tv Mode`：快门优先模式
+	- `B Mode - Bulb Mode`：B门
+- `Composition`：构图
+	- `Subject`：主体
+	- `Background/Foreground`：背景/前景
+	- `Rule Of Thirds`：三分法
+	- `Leading Lines`：引导线
+	- `Framing`：框架构图
+	- `Negative Space`：留白
+	- `Balance`：平衡
+	- `Contrast`：对比
+	- `Layering`：层次
+	- `Visual Weight`：视觉重量
+- `EVF / Electronic Viewfinder`：电子取景器
+- `Light`：光线  
+	- `Natural Light`：自然光  
+	- `Artificial Light`：人造光  
+	- `Hard Light`：硬光  
+	- `Soft Light`：柔光  
+	- `Front Light`：顺光  
+	- `Side Light`：侧光  
+	- `Back Light`：逆光  
+	- `Rim Light`：轮廓光
+- `Hot Shoe`：热靴  
+- `Tripod`：三脚架  
+`Gimbal`：稳定器  
+`ND Filter`：减光镜  
+`CPL Filter`：偏振镜  
+`UV Filter`：UV镜  
+`Lens Hood`：遮光罩
 # 对焦：
 一般来说，将眼睛作为焦点是比较合适的。
 
