@@ -187,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,7 +206,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ebc45ed2b6d27eb",
+  "active": "76f4d6e0d0ff3f89",
   "lastOpenFiles": [
     "00-Inbox/markdown常用语法.md",
     "09-Personal/Photography/basic.md",

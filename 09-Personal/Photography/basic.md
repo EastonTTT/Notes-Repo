@@ -22,7 +22,6 @@
 	- `Matrix Metering/Evaluate Metering`：矩阵测光/评价测光
 	- `Spot Metering`：点测光
 	- `Center-weighted Metering`：中央重点测光
-- `Aperture`：光圈
 - `Lens`：镜头
 	- `Telephoto Lens`：长焦镜头
 	- `Prime Lens`：定焦镜头
@@ -31,12 +30,6 @@
 	- `Macro Lens`：微距镜头
 	- `Kits Lens`：套机镜头
 	- `Lens Distortion`：镜头畸变
-- `Perspective`：透视
-- `Image Quality`：画质
-- `Sharpness`：锐度
-- `Resolution`：分辨率
-- `Pixel`：像素
-- `Noise`：噪点
 - `Camera Mode`：相机模式
 	- `Auto Mode`：自动模式
 	- `P Mode - Programming Mode`：程序自动模式
@@ -54,9 +47,7 @@
 	- `Balance`：平衡
 	- `Contrast`：对比
 	- `Layering`：层次
-	- `Visual Weight`：视觉重量
-- `EVF / Electronic Viewfinder`：电子取景器
-- `Light`：光线  
+	- `Visual Weight`：视觉重量- `Light`：光线  
 	- `Natural Light`：自然光  
 	- `Artificial Light`：人造光  
 	- `Hard Light`：硬光  
@@ -65,13 +56,22 @@
 	- `Side Light`：侧光  
 	- `Back Light`：逆光  
 	- `Rim Light`：轮廓光
-- `Hot Shoe`：热靴  
-- `Tripod`：三脚架  
-`Gimbal`：稳定器  
-`ND Filter`：减光镜  
-`CPL Filter`：偏振镜  
-`UV Filter`：UV镜  
-`Lens Hood`：遮光罩
+- `Camera Body`：机身
+	- `Hot Shoe`：热靴  
+	- `Tripod`：三脚架  
+	- `Gimbal`：稳定器  
+	- `ND Filter`：减光镜  
+	- `CPL Filter`：偏振镜  
+	- `UV Filter`：UV镜  
+	- `Lens Hood`：遮光罩
+	- `EVF / Electronic Viewfinder`：电子取景器
+- `Perspective`：透视
+- `Image Quality`：画质
+- `Sharpness`：锐度
+- `Resolution`：分辨率
+- `Pixel`：像素
+- `Noise`：噪点
+- `Aperture`：光圈
 # 对焦：
 一般来说，将眼睛作为焦点是比较合适的。
 
@@ -88,7 +88,8 @@
 
 
 ## 光圈
-光圈可以很大程度的影响景深的范围。
+光圈是**镜头里控制进光孔大小的结构**，一般使用**光圈值  f-number（N）** 来描述光圈的大小。
+光圈值本质上是一个比例： ==**f-number = 焦距 ÷ 光圈孔径直径 （N = f / D）**==
 
 ## 快门时间
 
