@@ -25,14 +25,14 @@
             "id": "cc9334b84cbea398",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "09-Personal/Photography/basic.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "basic"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -157,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-Personal/Photography/basic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "basic 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -187,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,10 +205,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76f4d6e0d0ff3f89",
+  "active": "cc9334b84cbea398",
   "lastOpenFiles": [
-    "00-Inbox/markdown常用语法.md",
     "09-Personal/Photography/basic.md",
+    "00-Inbox/markdown常用语法.md",
     "Attachments/Pasted image 20260501223912.png",
     "Attachments/Pasted image 20260501223900.png",
     "Attachments/Pasted image 20260501223524.png",
