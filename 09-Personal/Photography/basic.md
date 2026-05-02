@@ -2,7 +2,26 @@
 
 # 名词解释：
 - `Shutter`：快门
+	- `shutter speed`：快门速度
 - `Exposure`：曝光
+	- `Overexposure`：过曝
+	- `Underexposure`：欠曝
+	- `Exposure Compensation`：曝光补偿
+	- `EV/Exposure Value`：曝光值
+- `Metering`：测光
+	- `Matrix Metering/Evaluate Metering`：矩阵测光/评价测光
+	- `Spot Metering`：点测光
+	- `Center-weighted Metering`：中央重点测光
+- `Aperture`：光圈
+- `Lens`：镜头
+	- `Telephoto Lens`：长焦镜头
+	- `Prime Lens`：定焦镜头
+	- `Zoom Lens`：变焦镜头
+	- `Wide-angle Lens`：广角镜头
+	- `Macro Lens`：微距镜头
+	- `Kits Lens`：套机镜头
+	- `Lens Distortion`：镜头畸变
+- `Perspective`：透视
 # 对焦：
 一般来说，将眼睛作为焦点是比较合适的。
 
@@ -13,7 +32,7 @@
 
 # 曝光：
 曝光就是最终传感器捕获到的所有光线。
-直方图
+## 直方图
 
 ## HDR(High Dynamic Range)
 
