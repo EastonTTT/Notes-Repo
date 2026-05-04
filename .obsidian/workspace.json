@@ -25,14 +25,14 @@
             "id": "cc9334b84cbea398",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "09-Personal/Photography/basic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "basic"
             }
           }
         ],
@@ -207,7 +207,9 @@
   },
   "active": "cc9334b84cbea398",
   "lastOpenFiles": [
+    "09-Personal/Photography/Camera Operation.md",
     "09-Personal/Photography/basic.md",
+    "Attachments/Pasted image 20260504104358.png",
     "00-Inbox/markdown常用语法.md",
     "Attachments/Pasted image 20260501223912.png",
     "Attachments/Pasted image 20260501223900.png",
@@ -230,7 +232,6 @@
     "09-Personal/Documentary/power of companies.md",
     "Attachments/Pasted image 20260331101159.png",
     "Attachments/Pasted image 20260331100820.png",
-    "Attachments/Pasted image 20260331094052.png",
     "09-Personal/Lose weight",
     "00-Inbox/开发工具 wiki.md",
     "09-Personal/self-improvement/copy down.md",

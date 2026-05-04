@@ -82,6 +82,11 @@
 
 # 曝光：
 曝光就是最终传感器捕获到的所有光线。
+曝光三要素：
+- 光圈(`Aperture`)
+- 快门速度(`Shutter Speed`)
+- 感光度(`ISO`)
+![[Pasted image 20260504104358.png]]
 ## 直方图
 
 ## HDR(High Dynamic Range)
